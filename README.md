@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm learning Js and soon React to hopefully be skilled in React Native. If you have a basic project and would like a frontend devloper I'd be happy to collaborate with you!
+### I'm learning, but have skills in design, art and business.
 <!--
 **jakehartigan/jakehartigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
